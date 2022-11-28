@@ -12,9 +12,9 @@ ul{
 }
 li{
     background-color:inherit;
-    margin-top: 50px;
-    margin-bottom: 100px;
-    margin-left: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 15px;
     margin-right: 150px;
     padding: 50px 30px;
     border-right:1px ;
@@ -25,4 +25,9 @@ li{
 }
 h1{
     color: blue;
+}
+nav{
+    font-size: larger;
+    font-weight: bold;
+    color: red;
 }
