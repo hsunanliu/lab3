@@ -11,7 +11,7 @@ ul{
     position:left;
 }
 li{
-    background-image: url(image.jpeg);
+    background-color:inherit;
     margin-top: 50px;
     margin-bottom: 100px;
     margin-left: 150px;
