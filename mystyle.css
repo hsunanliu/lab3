@@ -1,0 +1,28 @@
+body{
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px 15px;
+    color: blue;
+}
+ul{
+    top:10px;
+    left:10px;
+    width:110%;
+    position:left;
+}
+li{
+    background-image: url(image.jpeg);
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 50px 30px;
+    border-right:1px ;
+}
+.navbar{
+    background-color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: blue;
+}
